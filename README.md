@@ -68,7 +68,7 @@ cd Role_Based_Authentication
 
 ## Screenshots
 
-![App Screenshot 1](https://drive.google.com/file/d/1CRsSqgy2bi4-YjUs5Dn1MUp7HOFrCf8z/view?usp=sharing)
+![App Screenshot 1][(https://drive.google.com/file/d/1CRsSqgy2bi4-YjUs5Dn1MUp7HOFrCf8z/view?usp=sharing)](https://drive.google.com/file/d/1CRsSqgy2bi4-YjUs5Dn1MUp7HOFrCf8z/view?usp=sharing)
 
 ![App Screenshot 2](https://drive.google.com/file/d/1mjfu-hOIWf_EKE8bfKiGlk2YQ_7FaJDC/view?usp=sharing)
 
